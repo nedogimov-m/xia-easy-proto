@@ -1,0 +1,14 @@
+[project]
+name = "xia_easy_proto"
+version = "1.0.9"
+authors = [
+  { name="x-i-a", email="admin@x-i-a.com" },
+]
+description = "blank"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
